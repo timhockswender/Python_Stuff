@@ -1,2 +1,2 @@
 # Python_Stuff
-STores learning materials
+Stores learning materials
